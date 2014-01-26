@@ -59,6 +59,48 @@ the following technologies:
 
 ### Professional experience
 
+#### Errplane/Influxdb
+
+##### Software Engineer - July 2013 to Present
+
+Errplane is a cloud-based platform for monitoring application
+performance, exceptions, uptime, and custom metrics in
+real-time. Errplane open-sourced the core data store, InfluxDB, a
+lightweight distributed time series, events, and metrics database.
+
+As part of being at Errplane, I worked on the following projects:
+
+- Write and maintain a local metric collection agent, that can monitor
+  cpu, memory, load and processes possibly restarting them when a
+  problem is detected.
+- Build a query parser in yacc and lex for influxdb
+- Build and maintain
+  [Influxdb](https://github.com/influxdb/influxdb?source=c) the open
+  source time series database that used to store all metric data for
+  Errplane.
+
+#### Thomson Reuters
+
+##### Software Engineer Contractor - December 2013 to July 2013
+
+As part of a team of two contractors we were tasked with building a
+drop-in replacement for
+[Microsoft LCS](http://msdn.microsoft.com/en-us/library/aa167872%28v=office.11%29.aspx). The
+responsibilities included the following:
+
+- Implement a [SIP](http://www.ietf.org/rfc/rfc3261.txt) chat server
+  that is backward compatible with LCS and supports all of
+  [Microsoft's extensions](http://msdn.microsoft.com/en-us/library/cc246115.aspx)
+  to SIP.
+- Integrate with other Thomson Reuters services and infrastructure.
+- Federate with other networks, e.g. Yahoo! and MSN which used a
+  slight variation of SIP.
+- Communicate with a large team of developers, operations and QA teams
+  located across the globe including Bangkok, London and New York
+  City.
+- Support hundreds of thousands of users logged in simultaneously to
+  the system and scale horizontally.
+
 #### Benchmark Solutions.
 
 ##### Software Engineer - February 2010 to December 2013
@@ -103,10 +145,14 @@ in my daily life because I believe in the OSS mission and to show gratitude
 to my fellow developers who continuously build awesome software that I use
 on a daily basis.
 
+- **[Golang](https://codereview.appspot.com/9795043)**. Fixed a bug in
+  the tls certificate checking code that prevented certificates with
+  long chains to be used in golang.
 - **[Nokogiri](https://github.com/sparklemotion/nokogiri)**. Core
   maintainer of Nokogiri.
-- **[JRuby](https://github.com/jruby/jruby)**. Found and fixed a bug
-  related to String encoding in JRuby 1.7 when running in 1.9 mode.
+- **[JRuby](https://github.com/jruby/jruby)**. Found and fixed
+  multiple bugs related to String encoding in JRuby 1.7 when running
+  in 1.9 mode and timezone handling.
 - **[Ruby](https://github.com/ruby/ruby)**. Submitted a new test to
   enhance coverage of String encoding as a result of a bug found in
   JRuby.
@@ -114,9 +160,6 @@ on a daily basis.
   Linux O(1) scheduler which was designed and implemented by Ingo
   Molnár to the Minix Operating System, though this work wasn't
   published or contributed back to the Minix code base.
-- **[Golang](https://codereview.appspot.com/9795043)**. Fixed a bug in
-  the tls certificate checking code that prevented certificates with
-  long chains to be used in golang.
 
 ### Undergraduate experience
 
