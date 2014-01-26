@@ -3,7 +3,7 @@
 
 # John V. Shahid
 
- * Email/GTalk: <jvshahid@gmail.com>
+ * Email/GTalk: <jvshahid at gmail dot com>
  * Github: <http://github.com/jvshahid>
  * Twitter handle: [@jvshahid](http://twitter.com/jvshahid)
  * Phone number: 718-730-0780
@@ -37,11 +37,12 @@ Fall 2002 - Spring 2005
 I have been programming professionally since 2010, mainly using
 the following technologies:
 
-- **Ruby** (moderate). I'm not not really a Rubyist but I use Ruby for most of my scripting needs and love it as a language.
-- **Scala** (moderate). I've been using Scala for quite sometime now, mainly to build web services using **Scalatra**.
+- **Go** (professional). I've been using Go for over a year and have submitted bug fixes to the repo previously (see below).
 - **Java** (professional). I've been using Java for more than 5 years, although I prefer not to use it anymore for many reasons.
 - **C/C++** (professional). I've been using C/C++ for the past 2 years, mainly to write services and libraries that will run
   under Linux.
+- **Ruby** (moderate). I'm not not really a Rubyist but I use Ruby for most of my scripting needs and love it as a language.
+- **Scala** (moderate). I've been using Scala for quite sometime now, mainly to build web services using **Scalatra**.
 - **Bash** (moderate). I'm by no means a good bash scripter but since the shell is the heart of all Unix systems,
   I'm forced to use it on a daily basis and get better at it everyday.
 - **Java Threads/PThreads** (moderate). Aware of the common pitfalls associated with using threads and have good debugging skills
@@ -58,9 +59,19 @@ the following technologies:
 
 ### Professional experience
 
+#### Errplane/Influxdb
+
+##### Software Engineer - July 2013 to Present
+
+#### Thomson Reuters
+
+##### Software Engineer - January 2013 to July 2013
+
+
+
 #### Benchmark Solutions.
 
-##### Software Engineer - February 2010 to Present
+##### Software Engineer - February 2010 to December 2013
 
 As an early employee at Benchmark Solutions I was responsible for
 architecting, developing and maintaining a wide range of services and
@@ -113,6 +124,9 @@ on a daily basis.
   Linux O(1) scheduler which was designed and implemented by Ingo
   Molnár to the Minix Operating System, though this work wasn't
   published or contributed back to the Minix code base.
+- **[Golang](https://codereview.appspot.com/9795043). Fixed a bug in
+  the tls certificate checking code that prevented certificates with
+  long chains to be used in golang.
 
 ### Undergraduate experience
 
