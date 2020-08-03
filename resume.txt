@@ -75,5 +75,4 @@ is a sample of OSS projects I contributed to:
 - A generative approach to testing database applications:
 
   Shahid, Chays, Frankl. Query-based Test Generation for Database Applications.
-  Proceedings of the 1st intentional workshop on testing database systems, June
-  2008.
+  Proceedings of the 1st intentional workshop on testing database systems, June 2008.
