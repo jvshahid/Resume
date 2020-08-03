@@ -60,13 +60,13 @@ Contributing back to the open-source community is very important to me.  Below
 is a sample of OSS projects I contributed to:
 
 - Go:
-  - https://codereview.appspot.com/9795043
+  - [https://codereview.appspot.com/9795043](https://codereview.appspot.com/9795043)
 - JRuby:
-  - https://github.com/jruby/jruby/commit/b7db1a2779
-  - https://github.com/jruby/jruby/commit/454c4447ca
-  - https://github.com/ruby/spec/commit/a72e36e3174c790b781597b8e4f82c6e75e5b52c
+  - [https://github.com/jruby/jruby/commit/b7db1a2779](https://github.com/jruby/jruby/commit/b7db1a2779)
+  - [https://github.com/jruby/jruby/commit/454c4447ca](https://github.com/jruby/jruby/commit/454c4447ca)
+  - [https://github.com/ruby/spec/commit/a72e36e3174c790b781597b8e4f82c6e75e5b52c](https://github.com/ruby/spec/commit/a72e36e3174c790b781597b8e4f82c6e75e5b52c)
 - Emacs:
-  - https://git.savannah.gnu.org/cgit/emacs.git/log/?qt=author&q=shahid
+  - [https://git.savannah.gnu.org/cgit/emacs.git/log/?qt=author&q=shahid](https://git.savannah.gnu.org/cgit/emacs.git/log/?qt=author&q=shahid)
 - Core maintainer on the [Nokogiri](https://github.com/sparklemotion/nokogiri)
   team.  Not very active recently.
 
