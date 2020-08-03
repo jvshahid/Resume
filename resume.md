@@ -12,7 +12,7 @@
 
 ## Objectives
 
-I am interested in building distributed systems and in being challenged.
+I am interested in building distributed systems and being challenged.
 
 ## Education
 
@@ -29,50 +29,34 @@ B.S. Degree in Computer Engineering - Spring 2010
 
 ##### Software Engineer - March 2015 to present
 
-As part of being at Pivotal, I had the pleasure on rotating across multiples
-teams and touching many core components of CloudFoundry:
+Rotated across multiples teams and touching many core components of CloudFoundry:
 
-1. Implemented the initial Windows containerization support for CloudFoundry
-2. Lead the CloudFoundry Buildpack team for a few months.
-3. Lead the Diego team which manages the orchestration and scheduling of container inside CloudFoundry
-4. Currently bringing the power of VMWare products to IC agencies on [C2S](https://aws.amazon.com/federal/us-intelligence-community/).  Fix bugs that prevent the products from running on AWS' secret regions, including technical issues related to C2S as well as security compliance requirements.
+- Implemented the initial Windows containerization support for CloudFoundry
+- Lead the CloudFoundry Buildpack team.
+- Lead the Diego team. The team responsible for the container orchestration and scheduling in CloudFoundry
+- I am currently bringing the power of VMWare products to IC agencies on C2S. The team deals with technical challenges that prevent the products from running on AWS's secret regions and security compliance requirements
 
 #### InfluxDB, formerly Errplane
 
 ##### Software Engineer - July 2013 to November 2014
 
-- Co-authored the initial design of InfluxDB.
-- Build InfluxDB's initial version of the query parser
-- Coordinate the open source community that were built around InfluxDB.
+I co-authored the initial design of InfluxDB and built InfluxDB's initial version of the query parser. I also helped coordinate the open-source community efforts and feedback.
 
 #### Thomson Reuters
 
 ##### Software Engineer Contractor - December 2012 to July 2013
 
-Part of a team tasked with renovating Thomson Reuters chatting system and
-integrating it with the other Thoms Reuters' products.
-
-- Implement a [SIP](http://www.ietf.org/rfc/rfc3261.txt) chat server in Go that is backward compatible with LCS.
-- Federate with other networks, e.g. Yahoo! and MSN.
-- Corrdinate the efforts of a large team of developers, operations and QA teams
-  located across the globe including Bangkok, London and New York City.
+Design and implement a large scale SIP/XMPP server used by TR customers in the far east, middle east, and the US.
 
 #### Benchmark Solutions.
 
 ##### Software Engineer - February 2010 to December 2012
 
-Benchmark was a fintech startup that was founded in 2009 and specialized in
-providing real-time analytics for the OTC credit markets.
-
-- Various APIs that serves prices and symbol's metadata.
-- Build the price and metadata persistence layer using Cassandra.  Provide high
-  level libraries in various languages to other R&D teams, e.g. Ruby and Java.
-- Integrate with other services, such as the pricing engine, which consumes or
-  produces prices.
+As an early employee at Benchmark Solutions, I was responsible for architecting, developing, and maintaining a wide range of services and processes that integrated our infrastructure, mostly built using open-source software.
 
 ### Open source experience
 
-Contributing back to the open source community is very important to me.  Below
+Contributing back to the open-source community is very important to me.  Below
 is a sample of OSS projects I contributed to:
 
 - Go:
@@ -88,7 +72,7 @@ is a sample of OSS projects I contributed to:
 
 ### Research
 
-- Generative approach to testing database applications:
+- A generative approach to testing database applications:
 
   Shahid, Chays, Frankl. Query-based Test Generation for Database Applications.
   Proceedings of the 1st intentional workshop on testing database systems, June
