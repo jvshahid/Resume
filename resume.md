@@ -3,25 +3,10 @@
 
 # John V. Shahid
 
- * Email/GTalk: jvshahid at gmail dot com
  * Github: <http://github.com/jvshahid>
- * Twitter handle: [@jvshahid](http://twitter.com/jvshahid)
- * Online resume: <http://jvshahid.github.com/Resume>
+ * Twitter: [@jvshahid](http://twitter.com/jvshahid)
 
 ![My image](http://www.gravatar.com/avatar/2736d9750eb13425e9bf70f112753c49?s=150)
-
-## Objectives
-
-I am interested in building distributed systems and being challenged.
-
-## Education
-
-### Polytechnic University, Brooklyn, NY
-
-Department of Electrical and Computer Engineering
-B.S. Degree in Computer Engineering - Spring 2010
-
-## Experience
 
 ### Professional experience
 
@@ -54,7 +39,7 @@ Design and implement a large scale SIP/XMPP server used by TR customers in the f
 
 As an early employee at Benchmark Solutions, I was responsible for architecting, developing, and maintaining a wide range of services and processes that integrated our infrastructure, mostly built using open-source software.
 
-### Open source experience
+### Open source
 
 Contributing back to the open-source community is very important to me.  Below
 is a sample of OSS projects I contributed to:
