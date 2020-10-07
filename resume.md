@@ -6,8 +6,6 @@
  * Github: <http://github.com/jvshahid>
  * Twitter: [@jvshahid](http://twitter.com/jvshahid)
 
-![My image](http://www.gravatar.com/avatar/2736d9750eb13425e9bf70f112753c49?s=150)
-
 ### Professional experience
 
 #### VMWare, formerly Pivotal
