@@ -17,7 +17,7 @@ Rotated across multiples teams and touching many core components of CloudFoundry
 - Implemented the initial Windows containerization support for CloudFoundry
 - Lead the CloudFoundry Buildpack team.
 - Lead the Diego team. The team responsible for the container orchestration and scheduling in CloudFoundry
-- I am currently bringing the power of VMWare products to IC agencies on C2S. The team deals with technical challenges that prevent the products from running on AWS's secret regions and security compliance requirements
+- Currently bringing the power of VMWare products to the Intelligence Community on C2S. The team deals with technical challenges preventing the products from running on the isolated AWS's secret regions and other security compliance requirements.
 
 #### InfluxDB, formerly Errplane
 
@@ -35,12 +35,11 @@ Design and implement a large scale SIP/XMPP server used by TR customers in the f
 
 ##### Software Engineer - February 2010 to December 2012
 
-As an early employee at Benchmark Solutions, I was responsible for architecting, developing, and maintaining a wide range of services and processes that integrated our infrastructure, mostly built using open-source software.
+I was an early hire at Benchmark Solutions. My responsibilities included architecting, developing, and maintaining a wide range of services and local daemons that abstracted storage and querying of bonds and CDCs prices.
 
 ### Open source
 
-Contributing back to the open-source community is very important to me.  Below
-is a sample of OSS projects I contributed to:
+Contributing back to the open-source community is very important to me.  Below is a sample of OSS projects I contributed to:
 
 - Go:
   - [https://codereview.appspot.com/9795043](https://codereview.appspot.com/9795043)
